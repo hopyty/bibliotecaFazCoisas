@@ -52,3 +52,14 @@
         }
     }
 }
+
+
+/// <summary> → descrição geral do método ou classe.
+
+/// <param> → descreve cada parâmetro de entrada.
+
+/// <returns> → descreve o que a função retorna.
+
+/// <exception> → documenta exceções possíveis.
+
+<list> → ajuda a mostrar listas organizadas (ótimo para categorias como o IMC).
